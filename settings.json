@@ -1,16 +1,10 @@
-{
-  "name": "AFK Bot",
-  "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
-    "type": "offline"
-  },
-  "server": {
-    "ip": "369FAM-RmdU.aternos.me",
-    "port": 31730,
-    "version": "",
-    "try-creative": false
-  },
+}
+  const client = bedrock.createClient({
+  host: "YOUR_SERVER_IP",
+  port: 19132,
+  username: "LoggerBot",
+  offline: true
+},
   "position": {
     "enabled": true,
     "x": 0,
