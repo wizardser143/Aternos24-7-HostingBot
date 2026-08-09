@@ -8,6 +8,7 @@
   "server": {
     "ip": "369FAM-RmdU.aternos.me",
     "port": 31730,
+    "version": "",
     "try-creative": false
   },
   "position": {
